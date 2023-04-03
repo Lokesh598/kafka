@@ -9,11 +9,13 @@ execute this command from current directory... [kafka-single-node](https://githu
 
 this command will pull the zookeeper and kafka. and start the containers of kafka and zookeeper.
 
+![MicrosoftTeams-image (4)](https://user-images.githubusercontent.com/63910828/229498984-402c3d5f-7e96-48b0-b906-40a963846413.png)
+
 To check the containers running or not ... execute this command
 
 👉`docker ps`
 
-![MicrosoftTeams-image (4).png](..%2F..%2F..%2FMicrosoftTeams-image%20%284%29.png)
+
 
 To shutdown and remove the setup, execute this command in the same directory...
 
@@ -23,7 +25,7 @@ Logging into kafka container...
 
 👉`docker exec -it kafka-broker /bin/bash`
 
-![MicrosoftTeams-image (5).png](..%2F..%2F..%2FMicrosoftTeams-image%20%285%29.png)
+![MicrosoftTeams-image (5)](https://user-images.githubusercontent.com/63910828/229499073-6526f341-5286-4110-b9aa-019067682202.png)
 
 Now navigate to kafka scripts directory...
 
