@@ -2,7 +2,7 @@
 
 Setting up kafka in windows...
 first go to the directory where kafka-single-node.yml exists.
-execute this command from current directory...
+execute this command from current directory... `https://github.com/Lokesh598/kafka/blob/main/kafka-single-node.yml`
 
 👉`docker-compose -f kafka-single-node.yml up -d
 `
